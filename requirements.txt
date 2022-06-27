@@ -1,0 +1,4 @@
+distutils-commands==1.5.4
+PyMySQL==1.0.2
+tkinter-page==0.0.5
+tokenizer==3.4.1
